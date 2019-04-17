@@ -1,7 +1,4 @@
 ---------- concert this result ----------
-The artist you search for doesn't have upcoming events.
------------------------------------------
----------- concert this result ----------
 Venue name: Mollenpark
 Venue location: Aalborg  Denmark
 Date: 2019-06-01T19:00:44
@@ -34,43 +31,43 @@ Venue name: Curacao North Sea Jazz Festival
 Venue location: Curacao  Netherlands Antilles
 Date: 2019-08-31T19:00:04
 -----------------------------------------
-------- spotify-this-song results -------
-Song's Name: Hello
-Artist: Devan Ekambaram
-Album: Pyaar Prema Kaadhal (Original Motion Picture Soundtrack)
-Preview Link: https://p.scdn.co/mp3-preview/ae3a8c13b76f8c82d0361eba40d796b1220535b2?cid=914f59d5415e494db39200494e78c5fa
+------- spotify this song results -------
+Song's Name: Someone Like You
+Artist: Adele
+Album: 21
+Preview Link: https://p.scdn.co/mp3-preview/d808ccb1a59c5f21a14cf8da9974558f84366933?cid=914f59d5415e494db39200494e78c5fa
 -----------------------------------------
-Song's Name: Hello Pilla Hello
-Artist: Shekar Chandra
-Album: Parichayam (Original Motion Picture Soundtrack)
-Preview Link: https://p.scdn.co/mp3-preview/b97a7535e8a63716f2e4d5dda0c14bd703062d62?cid=914f59d5415e494db39200494e78c5fa
+Song's Name: Make You Feel My Love
+Artist: Adele
+Album: 19
+Preview Link: https://p.scdn.co/mp3-preview/7a165b92d60630afcb5a8fecf97f6dd379c2f6f1?cid=914f59d5415e494db39200494e78c5fa
 -----------------------------------------
-Song's Name: Hello Hello
-Artist: Papon
-Album: Valiyavan (Original Motion Picture Soundtrack)
-Preview Link: https://p.scdn.co/mp3-preview/7be5f144033c0f34db1320f349a371d932528614?cid=914f59d5415e494db39200494e78c5fa
+Song's Name: When We Were Young
+Artist: Adele
+Album: 25
+Preview Link: https://p.scdn.co/mp3-preview/659a35907dfd65e8da36b1f9129415b749eda99f?cid=914f59d5415e494db39200494e78c5fa
 -----------------------------------------
-Song's Name: Hello Hello
-Artist: Ranjith
-Album: Challenge (Original Motion Picture Soundtrack)
-Preview Link: https://p.scdn.co/mp3-preview/8bd4b9dca12daae4b7cdab4443ce7f12b0fa5aef?cid=914f59d5415e494db39200494e78c5fa
+Song's Name: Set Fire to the Rain
+Artist: Adele
+Album: 21
+Preview Link: https://p.scdn.co/mp3-preview/70e56ff5287602e2720bec6838e51cb89fa2ce2d?cid=914f59d5415e494db39200494e78c5fa
 -----------------------------------------
-Song's Name: Hello Mister
-Artist: Pooja Vaidyanath
-Album: Kotikokkadu (Original Motion Picture Soundtrack)
-Preview Link: https://p.scdn.co/mp3-preview/238f5c0fb8f1c14471c47c327da1ef39e2162ba8?cid=914f59d5415e494db39200494e78c5fa
+Song's Name: Rolling in the Deep
+Artist: Adele
+Album: 21
+Preview Link: https://p.scdn.co/mp3-preview/8c174ce25d94b502dfe31f0da8a070a32fb263db?cid=914f59d5415e494db39200494e78c5fa
 -----------------------------------------
 ----------- movie this result -----------
-Title: What Women Want
-Year: 2000
-Rating: 6.4
-Rotten Tomato Rating: 54%
-Country: USA
-Language: English, French
-Plot: After an accident, a chauvinistic executive gains the ability to hear what women are really thinking.
-Actors: Mel Gibson, Helen Hunt, Marisa Tomei, Alan Alda
+Title: The Martian
+Year: 2015
+Rating: 8.0
+Rotten Tomato Rating: 91%
+Country: UK, USA, Jordan, Hungary
+Language: English, Mandarin
+Plot: An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.
+Actors: Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels
 -----------------------------------------
-------- spotify-this-song results -------
+------- spotify this song results -------
 Song's Name: I Want It That Way
 Artist: Backstreet Boys
 Album: The Hits--Chapter One
@@ -95,14 +92,4 @@ Song's Name: I Want It That Way
 Artist: Mick Jensen
 Album: I Want It That Way
 Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=914f59d5415e494db39200494e78c5fa
------------------------------------------
------------ movie this result -----------
-Title: Mr. Nobody
-Year: 2009
-Rating: 7.8
-Rotten Tomato Rating: 67%
-Country: Belgium, Germany, Canada, France, USA, UK
-Language: English, Mohawk
-Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 -----------------------------------------
