@@ -4,13 +4,13 @@
 https://drive.google.com/file/d/1aN0O2Nj3XrijpAO8gPHILEnfZN2ba842/view
 
 ## Main functionality of this App
-1. concert-this artist/band name
+1. concert-this artist/band name : 
 show all the artist's upcoming events
-1. spotify-this-song song name
+1. spotify-this-song song name : 
 show 5 results of the song name
-1. movie-this movie name
+1. movie-this movie name : 
 show movie information
-1. do-what-it-says
+1. do-what-it-says : 
 do random thing which is written in random.txt
 
 ## Small tips in each process
